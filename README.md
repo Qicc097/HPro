@@ -106,8 +106,8 @@ graph LR
 ## 🤝 贡献指南
 
 我们欢迎各种形式的贡献：
-1. **提交问题报告** - 遇到问题？[提交Issue](https://github.com/Qicc/H Pro/issues)
-2. **提出新功能** - 有好的想法？[分享建议](https://github.com/Qicc/H Pro/discussions)
+1. **提交问题报告** - 遇到问题？[提交Issue](https://github.com/Qicc097/HPro/issues)
+2. **提出新功能** - 有好的想法？[分享建议](https://github.com/Qicc097/HPro/discussions)
 3. **代码贡献** - 开发人员？提交Pull Request
 4. **文档完善** - 帮助改进文档
 5. **翻译支持** - 添加更多语言
@@ -116,9 +116,9 @@ graph LR
 
 ## 📜 许可证
 
-XTools 采用 **GPL-3.0 许可证** 开源发布。详情请查看 [LICENSE](LICENSE) 文件。## 🚀 项目简介
+H Pro 采用 **GPL-3.0 许可证** 开源发布。详情请查看 [LICENSE](LICENSE) 文件。## 🚀 项目简介
 
-**XTools** 是一款专为黑苹果（Hackintosh）爱好者设计的全能工具箱软件。它将复杂的黑苹果安装过程简化为几个简单步骤，无论是新手还是资深玩家，都能轻松驾驭黑苹果的世界！
+**H Pro** 是一款专为黑苹果（Hackintosh）爱好者设计的全能工具箱软件。它将复杂的黑苹果安装过程简化为几个简单步骤，无论是新手还是资深玩家，都能轻松驾驭黑苹果的世界！
 
 ✨ **核心优势**：
 - 自动化硬件检测与配置
