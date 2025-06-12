@@ -46,7 +46,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/Qicc/H Pro.git
+git clone https://github.com/Qicc097/HPro.git
 
 # 2. 进入项目目录
 cd H Pro
@@ -59,7 +59,7 @@ python main.py
 ```
 
 ### 快速启动
-对于不想安装Python环境的用户，我们提供[预编译版本](https://github.com/Qicc/XTools/releases)下载
+对于不想安装Python环境的用户，我们提供[预编译版本](https://github.com/Qicc097/HPro/releases)下载
 
 ## 🧭 使用指南
 
